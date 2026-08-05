@@ -5,3 +5,6 @@ Basic of the portfolio project structure
 -responsive ui
 -fast performance
 ## Updated documentation
+## Contributing
+
+Feel free to fork the repository and submit pull requests.
