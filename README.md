@@ -4,3 +4,4 @@ Basic of the portfolio project structure
 -user authentication
 -responsive ui
 -fast performance
+## Updated documentation
