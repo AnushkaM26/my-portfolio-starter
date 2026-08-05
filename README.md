@@ -1,2 +1,6 @@
 # my-portfolio-starter
-Basic portfolio project structure
+Basic of the portfolio project structure
+#features
+-user authentication
+-responsive ui
+-fast performance
