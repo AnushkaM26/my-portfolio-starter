@@ -8,3 +8,8 @@ Basic of the portfolio project structure
 ## Contributing
 
 Feel free to fork the repository and submit pull requests.
+## Future Improvements
+
+- Add dark mode
+- Improve accessibility
+- Deploy using GitHub Pages
